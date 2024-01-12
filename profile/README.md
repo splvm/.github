@@ -12,7 +12,7 @@ SPLVM is a virtual meetup for system and programming language enthusiasts. We wi
 
 ## 🧑‍💻 Upcoming Meetup
 
-- [23' Virtualized Systems Meetup](https://github.com/splvm/virtsys-meetup)
+- [24' Virtualized Systems Meetup](https://github.com/splvm/virtsys-meetup)
 
 ## 🏛️ Past Meetups
 - [23' Spring CKA and CKAD Meetup](https://github.com/splvm/spring_cka_d_meetup)
