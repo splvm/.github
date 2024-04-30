@@ -25,6 +25,13 @@ Organized by by Wen Lin and Mossaka, SPLVM operates similarly to a university co
 - [20' DDIA Meetup](https://github.com/splvm/ddia-meetup)
 - [20' Distributed Systems Meetup](https://splvm.github.io/distsys-meetup/)
 
+## ☕️ Sponsor us
+
+The organizers invested a lot of time and effort to make this meetup possible, including covering the cost of Zoom meetings ($160 / year). If you'd like to support, consider buying us a Coffee ☕️! You can also reach out us at splvm2021 at gmail dot com.
+
+![bmc_qr](https://github.com/splvm/.github/assets/5447827/22573d73-0135-427e-8261-a361cd2ccf1b)
+
+
 ## 🎯 Goals
 The goal of SPLVM is to facilitate a highly effective learning environment where participants can deepen their understanding of computer systems and programming languages.
 
