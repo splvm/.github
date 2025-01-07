@@ -14,7 +14,7 @@ Organized by by Wen Lin and Mossaka, SPLVM operates similarly to a university co
 
 ## 🧑‍💻 Upcoming Meetup
 
-- 25' AI Book Reading Meetup 
+- [25' AI Literature Circle](https://github.com/splvm/ai-lit-circle)
 
 ## 🏛️ Past Meetups
 - [24' Virtualized Systems Meetup](https://github.com/splvm/virtsys-meetup)
