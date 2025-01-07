@@ -10,13 +10,14 @@ Organized by by Wen Lin and Mossaka, SPLVM operates similarly to a university co
 
 ## 👩‍💻 Current Meetup
 
-- [24' Virtualized Systems Meetup](https://github.com/splvm/virtsys-meetup)
+- Stay tuned :)
 
 ## 🧑‍💻 Upcoming Meetup
 
-- Stay tuned :) 
+- 25' AI Book Reading Meetup 
 
 ## 🏛️ Past Meetups
+- [24' Virtualized Systems Meetup](https://github.com/splvm/virtsys-meetup)
 - [23' Spring CKA and CKAD Meetup](https://github.com/splvm/spring_cka_d_meetup)
 - [22' Operating Systems Meetup](https://splvm.github.io/os-meetup/)
 - [21' Database Internals Meetup](https://github.com/splvm/dbinternals-meetup)
